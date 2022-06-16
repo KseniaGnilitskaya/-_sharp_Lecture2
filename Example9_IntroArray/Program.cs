@@ -7,9 +7,13 @@ int Max(int number1, int number2, int number3)
     return result;
 }
 
-int[] = {31,20,43,74,25,66,73,568,119};
+int[] array = {3100,20,43,74,25,66,73,568,119};
 
-int max = Max(Max(a1, b1, c1), Max(a2, b2, c2), Max(a3, b3, c3));
+int max = Max(
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8])
+);
 
 Console.Write("Max number is ");
 Console.Write(max);

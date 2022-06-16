@@ -1,0 +1,15 @@
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.csproj.AssemblyReference.cache
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.AssemblyInfoInputs.cache
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.AssemblyInfo.cs
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\bin\Debug\net6.0\Example9_IntroArray.exe
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\bin\Debug\net6.0\Example9_IntroArray.deps.json
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\bin\Debug\net6.0\Example9_IntroArray.runtimeconfig.json
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\bin\Debug\net6.0\Example9_IntroArray.dll
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\bin\Debug\net6.0\Example9_IntroArray.pdb
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.dll
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\refint\Example9_IntroArray.dll
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.pdb
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\Example9_IntroArray.genruntimeconfig.cache
+C:\Users\kgnilitska001\Desktop\IT\IT education\C#\Lectures\Lecture_2\Example9_IntroArray\obj\Debug\net6.0\ref\Example9_IntroArray.dll
